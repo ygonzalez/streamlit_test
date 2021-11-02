@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: streamlit-ts-ml
-          image: "us.icr.io/ml-api/streamlit-ts-ml:0.2.0"
+          image: "icr.io/ygonzalez/my-kube-api:latest"
           ports:
             - containerPort: 5051
           resources:

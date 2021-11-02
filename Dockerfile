@@ -2,7 +2,7 @@ FROM python:3.7
 
 RUN apt-get update && apt-get upgrade -y
 
-WORKDIR /usr/src/app/streamlit-time-series
+WORKDIR /Users/yvettegonzalez/Documents/florida_ibm_hackathon/streamlit-time-series
 
 # Exposing default port for streamlit
 EXPOSE 8501
