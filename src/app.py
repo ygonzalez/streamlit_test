@@ -1,4 +1,4 @@
 import streamlit as st
 
 
-st.title('Fuck off Bad Bunny with your concert prices')
+st.title('fluff off Bad Bunny with your concert prices')
